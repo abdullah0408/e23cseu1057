@@ -1,0 +1,9 @@
+{
+  "name": "e23cseu1057",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd vehicle_maintence_scheduler && npm start",
+    "dev": "cd vehicle_maintence_scheduler && npm run dev",
+    "notification": "cd notification_app_be && npm start"
+  }
+}
