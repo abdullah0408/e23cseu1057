@@ -1,0 +1,15 @@
+{
+  "name": "notification_app_be",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.1.0",
+    "logging_middleware": "file:../logging_middleware"
+  }
+}
